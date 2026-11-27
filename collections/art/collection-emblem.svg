@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Permission Garden</title>
+<desc id="desc">Original abstract vector artwork for SCOPE: a luminous geometric emblem with connected paths and a provenance-inspired frame.</desc>
+<defs>
+ <radialGradient id="glow"><stop offset="0" stop-color="#E9C46A" stop-opacity=".30"/><stop offset="1" stop-color="#E9C46A" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9C46A"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".25"/></linearGradient>
+</defs>
+<rect width="1200" height="800" fill="#2B2930"/>
+<circle cx="600" cy="360" r="310" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".55">
+ <path d="M90 110 H1110 V690 H90Z"/><path d="M125 145 H1075 V655 H125Z"/>
+ <path d="M90 180 H1110 M90 620 H1110"/>
+</g>
+<g><path d="M600 510 C480 420 440 300 600 180 C760 300 720 420 600 510Z" fill="none" stroke="#E9C46A" stroke-width="9"/><path d="M600 500 Q600 350 600 205 M600 380 Q500 320 465 260 M600 420 Q700 345 735 285" fill="none" stroke="#E9C46A" stroke-width="6"/></g>
+<g fill="none" stroke="#E9C46A" stroke-width="4" opacity=".9">
+ <path d="M600 110 V165 M600 555 V610 M340 360 H395 M805 360 H860"/>
+ <circle cx="600" cy="360" r="235" stroke-dasharray="4 18"/>
+</g>
+<g fill="#E9C46A">
+ <circle cx="600" cy="125" r="10"/><circle cx="600" cy="595" r="10"/>
+ <circle cx="355" cy="360" r="10"/><circle cx="845" cy="360" r="10"/>
+</g>
+<text x="600" y="735" text-anchor="middle" font-family="Georgia,serif" font-size="28" letter-spacing="8" fill="#E9C46A">SCOPE</text>
+<text x="600" y="770" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#FFFFFF" opacity=".65">ORIGINAL COLLECTION ART • SVG • 2026</text>
+</svg>
